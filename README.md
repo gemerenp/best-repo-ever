@@ -1,4 +1,4 @@
 # best-repo-ever
  
 Follow instrunctions from Git Trailhead
-Creating a merge conflict
+Other changes to create merge conflict
